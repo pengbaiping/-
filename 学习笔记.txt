@@ -1,0 +1,38 @@
+
+// 上开图号新增
+		@RBEntry("shangkaiThXz")
+		public static final String SHANGKAITHXZTAB_SHANGKAITHXZNAVI_TITLE = "shangkaiThXzTab.shangkaiThXzNavi.title";
+		@RBEntry("shangkaiThXz")
+		public static final String SHANGKAITHXZTAB_SHANGKAITHXZNAVI_TOOLTIP = "shangkaiThXzTab.shangkaiThXzNavi.tooltip";
+		@RBEntry("shangkaiThXz")
+		public static final String SHANGKAITHXZTAB_SHANGKAITHXZNAVI_DESCRIPTION = "shangkaiThXzTab.shangkaiThXzNavi.description";
+		@RBEntry("ext/navigator_shangkai.jpg")
+		public static final String SHANGKAITHXZTAB_SHANGKAITHXZNAVI_ICON = "shangkaiThXzTab.shangkaiThXzNavi.icon";
+
+		@RBEntry("shangkaiTh")
+		public static final String SHANGKAITHTAB_SHANGKAITH_TITLE = "shangkaiThTab.shangkaiTh.title";
+		@RBEntry("shangkaiTh")
+		public static final String SHANGKAITHTAB_SHANGKAITH_TOOLTIP = "shangkaiThTab.shangkaiTh.tooltip";
+		@RBEntry("shangkaiTh")
+		public static final String SHANGKAITHTAB_SHANGKAITH_DESCRIPTION = "shangkaiThTab.shangkaiTh.description";
+
+
+// 上开图号新增
+	@RBEntry("上开图号新增")
+	public static final String SHANGKAITHXZTAB_SHANGKAITHXZNAVI_TITLE = "shangaiThXzTab.shangkaiThXzNavi.title";
+	@RBEntry("上开图号新增")
+	public static final String SHANGKAITHXZTAB_SHANGKAITHXZNAVI_TOOLTIP = "shangkaiThXzTab.shangkaiThXzNavi.tooltip";
+	@RBEntry("上开图号新增")
+	public static final String SHANGKAITHXZTAB_SHANGKAITHXZNAVI_DESCRIPTION = "shangkaiThXzTab.shangkaiThXzNavi.description";
+	@RBEntry("ext/navigator_shangkai.jpg")
+	public static final String SHANGKAITHXZTAB_SHANGKAITHXZNAVI_ICON = "shangkaiThXzTab.shangkaiThXzNavi.icon";
+
+	@RBEntry("上开图号")
+	public static final String SHANGKAITHTAB_SHANGKAITH_TITLE = "shangkaiThTab.shangkaiTh.title";
+	@RBEntry("上开图号")
+	public static final String SHANGKAITHTAB_SHANGKAITH_TOOLTIP = "shangkaiThTab.shangkaiTh.tooltip";
+	@RBEntry("上开图号")
+	public static final String SHANGKAITHTAB_SHANGKAITH_DESCRIPTION = "shangkaiThTab.shangkaiTh.description";
+http://192.168.100.12:8081/HBSSO?reqMsg=a2f342d4dad6cfa754a4915606f7bea5c784cef5652031824794bc8e0dd278724c10f866413384ec5d99821b00df11f18e79cf045c9eed3a8912312640e42511895fe98e94e297786c018074ec365726767113c74274b228e782f8c79318aa395a719bd5e4d3629049f459719a262f8
+0a2f342d4dad6cfa754a4915606f7bea5c784cef5652031824794bc8e0dd278724c10f866413384ec5d99821b00df11f18e79cf045c9eed3ed9b622a0139f6921895fe98e94e297786c018074ec365726767113c74274b228e782f8c79318aa3f913013829bd3229049f459719a262f8
+b0862419752fc4a7d7fdd4396acb2e9c539df10a0ea6bf03677f579d67e8eb3c0c6a2182fdab2678e569bf33843fb9152a47093b9ebded7e4d478ca6c0f7af45
